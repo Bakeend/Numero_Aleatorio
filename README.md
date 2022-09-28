@@ -9,3 +9,7 @@ Joguinho de número aleatório com objetivo de acertar número de 1 até 10!
 # Versão
 
 1.0V
+
+# Última Atualização
+
+04/08
